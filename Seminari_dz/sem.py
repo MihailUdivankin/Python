@@ -56,3 +56,4 @@
 
 # with open('c:\Users\User\Documents\Python\Python\Seminari_dz/s_1_dz_3.py''a') as file:
 #     file.write('1')
+# xyz
